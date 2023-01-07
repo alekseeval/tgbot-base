@@ -1,0 +1,5 @@
+http_server:
+  enabled: false
+  port: 80
+  request_timeout: 5
+  response_timeout: 5
